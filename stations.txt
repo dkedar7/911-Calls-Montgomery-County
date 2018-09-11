@@ -1,0 +1,176 @@
+01 Glenside Fire Company
+02 LaMott Fire Company
+03 Elkins Park Fire Company
+04 Cheltenham Hook & Ladder
+05 Ogontz Fire Company
+06 Flourtown Fire Company
+07 Wissahickon Fire Company
+08 Huntingdon Valley Fire Company
+09 Rockledge Fire Company
+10 Willow Grove Fire Company
+100 Abington Fire Company
+11 Bryn Athyn Fire Company
+12 Colmar Fire Company
+14 Fairmount Fire Company Lansdale
+1400 Montgomery County Vol. Fire Police
+15 Horsham Fire Company
+17 Hatfield Fire Company
+18 Fire Department of Montgomery Township
+
+200 McKinley Fire Company
+
+2000 US Search & Rescue
+
+21 Penn Wynne -Overbrook Hills Fire Company
+
+22 Belmont Hills Fire Company
+
+23 Bryn Mawr Fire Company
+
+24 Gladwyne Fire Company
+
+25 Merion Fire Company
+
+26 Narberth Fire Company
+
+27A Norristown Hose Company
+
+27B Montgomery Hose Company
+
+27C Humane Norristown Fire Department
+
+27D Fairmount of Norristown
+
+27E Hancock Fire Company
+
+28 Union of Bala Cynwyd
+
+29 Barren Hill Fire Company
+
+300 Weldon Fire Company
+
+31 Bridgeport Fire Company No1
+
+32 Goodwill Fire Co Bridgeport
+
+33 Centre Square Fire Company
+
+34 Collegeville Fire Company
+
+35 Conshohocken Fire Company No.2
+
+36 Washington Fire Company
+
+37 New Hanover Fire Company
+
+38 East Greenville Fire Company
+
+39 George Clay Fire Company
+
+400 Edgehill Fire Company
+
+41 North Penn Goodwill
+
+42 Green Lane Fire Company
+
+43 Plymouth Fire Company
+
+44 Harmonville Fire Company
+
+45 Spring Mill Fire Company
+
+46 Jefferson Fire Company
+
+47 King of Prussia Fire Company
+
+48 Swedeland Fire Company
+
+49 Swedesburg Fire Company
+
+500 Roslyn Fire Company
+
+51 Linfield Fire Company
+
+52 Lower Frederick Fire Company
+
+53 Lower Providence Fire Company
+
+54 Limerick Fire Company
+
+55 Mont Clare Fire Company
+
+56 Lincoln Fire Company
+
+57 West End Fire Company of Stowe
+
+58 Sanatoga Fire Company
+
+59 Ringing Hill Fire Company
+
+61 Norriton Fire Company
+
+62 North Penn Fire Company
+
+63 Oaks Fire Company
+
+64 Telford Diving Unit
+
+65 Pennsburg Fire Company
+
+66 Perkiomen Fire Company
+
+67 Gilbertsville Fire Company
+
+68 Sassamansville Fire Company
+
+69A Goodwill Fire Company Pottstown
+
+69B Philadelphia Fire Company Pottstown
+
+69C Empire Fire Company Pottstown
+
+69D North End Fire Company
+
+700 Oreland Fire Company
+
+71 Red Hill Fire Company
+
+72 Tylersport Fire Company
+
+73 Schwenksville Fire Company
+
+74 Perserverance Fire Company Souderton
+
+75 Telford Fire Company
+
+76 Towamencin Fire Company
+
+77 Trappe Fire Company
+
+78 Upper Salford Fire Company
+
+79 Upper Pottsgrove Fire Company
+
+80 Upper Gwynedd Fire Department
+
+82 Wyndmoor Hose Company
+
+83 Worcester Fire Company
+
+84 Humane Fire Company Royersford
+
+85 Friendship Fire Company Royersford
+
+850 Independent Fire Company Jenkintown
+
+86 Skippack Fire Company
+
+860 Pioneer Fire Company Jenkintown
+
+87 Upper Frederick Fire Company
+
+88 Fort Washington Fire Company
+
+89 Harleysville Fire Company
+
+95 Enterprise Fire Company of Hatboro
